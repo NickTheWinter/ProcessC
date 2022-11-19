@@ -5,4 +5,3 @@
 #include <locale.h>
 #include <stdlib.h>
 #include <Windows.h>
-void QuadraticEquation(float, float, float, FILE*);
